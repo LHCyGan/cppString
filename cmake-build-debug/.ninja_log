@@ -1,0 +1,7 @@
+# ninja log v5
+3	226	6994503313620290	CMakeFiles/winString.dir/main.cpp.obj	2caf6ed2f18391d0
+1	230	6994506404314372	CMakeFiles/winString.dir/string.cpp.obj	ac133416daa87191
+230	398	6994506405960541	winString.exe	9ab7ab1bfa6271bc
+0	242	6994508737785832	CMakeFiles/winString.dir/string.cpp.obj	ac133416daa87191
+3	257	6994508737937046	CMakeFiles/winString.dir/test.cpp.obj	b14013c5e10bb1d0
+258	334	6994508738674604	winString.exe	d40148ac9e5d277f
